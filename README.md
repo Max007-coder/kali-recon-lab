@@ -68,3 +68,11 @@ whois 5.x · whatweb · dnsutils (nslookup/dig) · curl · wafw00f 2.4.2 · dnsr
 Footprinting is the reconnaissance phase of a penetration test, and the whole
 point of the phase is that it is passive first. If a report like this is going to
 be delivered to a client, the scope document comes before the first query.
+
+## Credit
+
+Walkthrough and tool sequence: **@networkwalks** (NetworkWalks) - Waqas Karim CCIE.
+
+- video: https://www.youtube.com/watch?v=YB2qykxmCVg
+- channel: https://www.youtube.com/@waqasulkarim
+- site: https://www.networkwalks.com
