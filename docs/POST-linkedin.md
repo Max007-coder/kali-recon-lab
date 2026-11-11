@@ -45,12 +45,29 @@ policy that quietly says "we will never send you mail from this domain".
 Footprinting is passive first. Who the scope names is the only thing that decides
 which domains get queried.
 
+The tool sequence comes from Waqas Karim CCIE's walkthrough — thank you for laying
+it out so cleanly:
+https://www.youtube.com/watch?v=YB2qykxmCVg
+
 Repo with the raw output, the report and the reproducible script:
 https://github.com/Max007-coder/kali-recon-lab
 
 #CyberSecurity #KaliLinux #PenetrationTesting #Reconnaissance #InfoSec
 
 ---
+
+## Tag the author (do this in the composer)
+
+A `@mention` cannot exist in a text file — LinkedIn only creates a real tag when
+you type it in the composer and pick the profile from the dropdown.
+
+1. In the post body, the sentence "The tool sequence comes from Waqas Karim
+   CCIE's walkthrough" — put the cursor before "Waqas", type `@`, then start
+   typing `Waqas Karim` and select his profile from the list.
+2. His channel: https://www.youtube.com/@waqasulkarim — if the dropdown does not
+   find him, link the video URL instead of tagging; both count as credit, only the
+   tag sends him a notification.
+3. Keep the video link either way so the source is clickable.
 
 ## Ethics line to keep in the post
 

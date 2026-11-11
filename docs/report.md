@@ -3,6 +3,8 @@
 Target: `example.com` (IANA documentation domain, RFC 2606)
 Host: Kali GNU/Linux Rolling on WSL2
 Captured: 2026-11-11, raw output in `recon/raw/`
+Source walkthrough: *Footprinting and Reconnaissance with Kali Linux | 6 Recon
+Tools Explained* — Waqas Karim CCIE, https://www.youtube.com/watch?v=YB2qykxmCVg
 
 Every value below is copied from the captured output, not reconstructed.
 
