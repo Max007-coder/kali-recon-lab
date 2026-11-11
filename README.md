@@ -5,7 +5,7 @@ Reconnaissance with Kali Linux*, executed on **Kali GNU/Linux Rolling (WSL2)** a
 written up from the tool output rather than from memory.
 
 **Source of the walkthrough:** *Footprinting and Reconnaissance with Kali Linux
-| 6 Recon Tools Explained* by **Waqas Karim CCIE** —
+| 6 Recon Tools Explained* by **NetworkWalks** (Waqas Karim CCIE) —
 https://www.youtube.com/watch?v=YB2qykxmCVg (channel: https://www.youtube.com/@waqasulkarim).
 The tool sequence is his; the target choice, output capture and analysis here are
 mine.
