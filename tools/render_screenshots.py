@@ -46,7 +46,9 @@ def lines_of(name):
     f = RAW / name
     if not f.exists():
         return [f"(missing: {name})"]
-    return [ANSI.sub("", ln.rstrip("\n")) for ln in f.read_text(errors="replace").splitlines()]
+    # tabs would render as tofu boxes in a monospace font
+    return [ANSI.sub("", ln.rstrip("\n")).replace("\t", "    ")
+            for ln in f.read_text(errors="replace").splitlines()]
 
 
 def wrap(text, cols):
